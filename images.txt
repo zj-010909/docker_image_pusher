@@ -1,1 +1,2 @@
-gcr.io/cadvisor/cadvisor:v0.52.1
+registry.k8s.io/ingress-nginx/controller:v1.13.0
+registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.6.0
